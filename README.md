@@ -30,3 +30,4 @@ As atividades estão organizadas por aulas, contendo o código-fonte e o enuncia
 - **/Aula 1**: Operadores e Lógica Sequencial.
 - **/Aula 2**: Estruturas de Decisão e Lógica Condicional.
 - **/Aula 3**: Operadores lógicos.
+- **/Aula 4**: Estruturas de Decisão Avançadas e Operadores
