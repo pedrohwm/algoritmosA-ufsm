@@ -32,3 +32,4 @@ As atividades estão organizadas por aulas, contendo o código-fonte e o enuncia
 - **/Aula 3**: Operadores lógicos.
 - **/Aula 4**: Estruturas de Decisão Avançadas e Operadores.
 - **/Aula 5**: Laços de Repetição e Teoria dos Números.
+- **/Aula 6**: Lógica de Operadores e Sequências.
